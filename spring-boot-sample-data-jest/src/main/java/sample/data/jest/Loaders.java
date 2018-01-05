@@ -20,7 +20,7 @@ public class Loaders {
     }
 
     private void saveDatasetMetadata() {
-        this.repository.save(new DatasetMetadata("Trade Line Dataset Name 7"));
-        this.repository.save(new DatasetMetadata("Credit Line Dataset Name 7"));
+        this.repository.save(new DatasetMetadata("Trade Line Dataset Name 8"));
+        this.repository.save(new DatasetMetadata("Credit Line Dataset Name 8"));
     }
 }
